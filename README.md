@@ -3,7 +3,7 @@ A single repository with a plethora of small Javascript projects. Its is meant a
 
 All projects, from newest to oldest:
 
-## Page blurry loading:
+## Blurry loading:
 
 A small project where I make a page loading counter who dynamically changes and alters the blurs applied on the page. Meant as a way to learn basic DOM manipulation and dinamycally styling. Project idea from Brad Traversy "50 Projects In 50 Days - HTML, CSS & JavaScript" course.
 
