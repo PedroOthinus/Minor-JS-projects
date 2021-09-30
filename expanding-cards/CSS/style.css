@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100vh;
+  overflow: hidden;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.card {
+  height: 75vh;
+  margin: 0 0.5rem;
+  border-radius: 100px;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.116);
+  background-size: auto 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  flex: 0.5 3 4%;
+  transition: flex 0.7s ease-in;
+  overflow: hidden;
+}
+
+.card h2 {
+  position: absolute;
+  left: 1.5rem;
+  bottom: 2.5rem;
+  background-color: rgba(255, 255, 255, 0.596);
+  border-radius: 20px;
+  width: fit-content;
+  padding: 0 0.5rem;
+  opacity: 0;
+}
+
+.card.active {
+  flex: 7;
+}
+
+.card.active h2 {
+  opacity: 1;
+  transition: opacity 0.3s ease-in 0.4s;
+}
+
+.card-01 {
+  background-image: url(https://files.wallpaperpass.com/2019/10/doctor%20who%20wallpaper%2034%20-%205120x2880.png);
+}
+
+.card-02 {
+  background-image: url(https://static.zerochan.net/Vofan.full.79090.jpg);
+}
+
+.card-03 {
+  background-image: url(https://pbs.twimg.com/media/DebIQP-W0AERboN?format=jpg&name=orig);
+}
+
+.card-04 {
+  background-image: url(https://i0.wp.com/nerdizmo.uai.com.br/wp-content/uploads/sites/29/2021/05/wallpapers-do-star-wars-04.jpg?ssl=1);
+}
+
+.card-05 {
+  background-image: url(https://cdn.akamai.steamstatic.com/steam/apps/644540/ss_0648e0e2887ae759f7ec32b47fe132942866b0c5.1920x1080.jpg?t=1566816248);
+}
+
+@media (max-width: 800px) {
+  .card:last-child {
+    display: none;
+  }
+}
