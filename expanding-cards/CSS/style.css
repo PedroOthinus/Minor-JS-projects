@@ -30,7 +30,7 @@ main {
   margin: 0 0.5rem;
   border-radius: 100px;
   position: relative;
-  background-color: rgba(0, 0, 0, 0.116);
+  background-color: rgba(0, 0, 0, 0);
   background-size: auto 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -65,7 +65,7 @@ main {
 }
 
 .card-02 {
-  background-image: url(https://static.zerochan.net/Vofan.full.79090.jpg);
+  background-image: url(https://i.pinimg.com/originals/9e/a2/c7/9ea2c7c7bc162fe765719167805b43b9.jpg);
 }
 
 .card-03 {
