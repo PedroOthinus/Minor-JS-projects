@@ -2,7 +2,7 @@ const loadingDiv = document.querySelector('.loading');
 const backgroundDiv = document.querySelector('.background');
 
 let load = 0;
-let loadIncrease = setInterval(unBlurring, 20);
+let loadIncrease = setInterval(unBlurring, 70);
 
 const bgLoadingScale = (num, inMin, inMax, outMin, outMax) => {
     return ((num - inMin) * (outMax - outMin)) / (inMax - inMin) + outMin

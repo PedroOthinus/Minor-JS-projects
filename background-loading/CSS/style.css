@@ -21,7 +21,7 @@ html {
   z-index: -1;
   width: calc(100vw + 100px);
   height: calc(100vh + 100px);
-  background-image: url(https://cdn.dribbble.com/users/5031/screenshots/3713646/attachments/832536/wallpaper_mikael_gustafsson.png);
+  background-image: url(/Image/wallpaper_mikael_gustafsson.webp);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
