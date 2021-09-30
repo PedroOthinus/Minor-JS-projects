@@ -4,5 +4,5 @@ A single repositorie with a plethora of small Javascript projects. Its is meant 
 All projects:
 
 
---Expanding cards:
-A small project where I select one of five cards to get a bigger flex basis. Meant as a way to learn basic DOM manipulation and usage of event listeners.
+##Expanding cards:
+A small project where I select one of five cards to get a bigger flex basis. Meant as a way to learn basic DOM manipulation and usage of event listeners. [Check it out here!](expanding-cards-pedro-augusto.netlify.app)
