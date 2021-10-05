@@ -5,8 +5,8 @@ All projects, from newest to oldest:
 
 ## Blurry loading:
 
-A small project where I make a page loading counter who dynamically changes and alters the blurs applied on the page. Meant as a way to learn basic DOM manipulation and dinamycally styling. Project idea from Brad Traversy "50 Projects In 50 Days - HTML, CSS & JavaScript" course.
+A small project where I make a page loading counter who dynamically changes and alters the blur applied on the page. Meant as a way to learn basic DOM manipulation and dinamycally styling. Project idea from Brad Traversy "50 Projects In 50 Days - HTML, CSS & JavaScript" course. Completed on 30/09/2021. 
 
 
 ## Expanding cards:
-A small project where I select one of five cards to get a bigger flex basis. Meant as a way to learn basic DOM manipulation and usage of event listeners. Project idea from Brad Traversy "50 Projects In 50 Days - HTML, CSS & JavaScript" course.
+A small project where I select one of five cards to get a bigger flex basis. Meant as a way to learn basic DOM manipulation and usage of event listeners. Project idea from Brad Traversy "50 Projects In 50 Days - HTML, CSS & JavaScript" course. Completed on 29/09/2021. 
