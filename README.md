@@ -5,7 +5,7 @@ All projects, from newest to oldest:
 
 ## Form Validator:
 
-Made a client side form validator for a "Register Here" page. It checks some parameters and shows custom error messages to the user. Note that it was meant as a way to understand basic validation and doenst have any backend. Meant as a way to learn basic DOM manipulation, basic validation and dinamycally styling. Completed on 05/10/2021.
+Made a client side form validator for a "Register Here" page. It checks some parameters and shows custom error messages to the user. Note that it was meant as a way to understand basic validation and doesn't have any backend. Meant as a way to learn basic DOM manipulation, basic validation and dinamycally styling. Completed on 05/10/2021.
 
 ## Blurry loading:
 
